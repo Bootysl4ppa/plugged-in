@@ -26,11 +26,12 @@ INSTRUCTIONS
 
 - see prerequisites
 - if when you run/download it, it is detected as a virus, whitelist it. If you're worried, look at the source code and compile it yourself. I can't fix the false positive.
-- run the powerplan installer batch, this installs the necessary powerplans and nircmd. you can have a look at them in control panel
-- run the 
+- run the aggressively named python file
+- restart your laptop
+- should now be working!
 
 NOTES:
-- I use a hardcoded version of this myself which includes my refresh of 165hz. The dynamic refresh rate finder *should* work, but if it doesn't, inform me and I'll try fix it.
+- I use a hardcoded version of this myself which includes my refresh of 165hz. The dynamic refresh rate finder and power plan *should* work, but if it doesn't, inform me and I'll try fix it.
 - You need to download my powerplans as well for this to make much of a difference, a separate exectuable will be included which only needs to be ran ONCE. this is included as i dont want to ask for admin permissions every boot with the main program which would be really annoying, so this circumvents that.
 - for some reason windows detects it as a virus but the source code is attached and can be compiled into an executable yourself with the following commands: 
 
