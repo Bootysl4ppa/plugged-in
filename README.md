@@ -1,5 +1,5 @@
 # plugged-in
-A simple utility primarily for gaming laptops which improves battery life on windows 11 only. Primarily for gaming laptops as it changes some power settings that drastically improves your battery life. I went from 2 hours SOT of browsing off of a full charge, to 9 hours with plugged-in running. 
+A simple utility primarily for gaming laptops which improves battery life on **windows 11 only**. Primarily for gaming laptops as it changes some power settings that drastically improves your battery life. I went from 2 hours SOT of browsing off of a full charge, to 9 hours with plugged-in running. 
 
 PREREQUISITES:
 
